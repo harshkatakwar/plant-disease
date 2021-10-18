@@ -1,4 +1,5 @@
-opencv_python==4.5.1.48
 keras==2.6.0
-numpy==1.18.5
+opencv_python==4.5.1.48
 streamlit==0.83.0
+~umpy==1.18.5
+numpy==1.21.2
