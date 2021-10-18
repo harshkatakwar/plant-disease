@@ -1,4 +1,4 @@
-opencv_python==4.5.1.48
+opencv-python-headless
 streamlit==0.83.0
 keras==2.6.0
-numpy==1.21.2
+numpy
